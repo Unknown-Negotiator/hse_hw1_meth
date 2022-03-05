@@ -19,3 +19,6 @@ Cell type | Duplication % |
 8 cell | 18.31
 ICM | 9.08
 Epiblast | 2.92
+### e) Гистограммы распределения метилирования цитозинов по хромосоме
+#### 8 cell
+![](images/8_cell_hist.png)
