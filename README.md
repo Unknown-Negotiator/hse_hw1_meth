@@ -26,3 +26,10 @@ Epiblast | 2.92
 ![](images/icm_hist.png)
 #### Epiblast
 ![](images/epiblast_hist.png)
+### f) Визуализиция уровня метилирования и покрытия для каждого образца
+#### 8 cell
+![](images/cell8_track.png)
+#### ICM
+![](images/icm_track.png)
+#### Epiblast
+![](images/epiblast_track.png)
