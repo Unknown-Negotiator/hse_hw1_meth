@@ -22,3 +22,7 @@ Epiblast | 2.92
 ### e) Гистограммы распределения метилирования цитозинов по хромосоме
 #### 8 cell
 ![](images/8_cell_hist.png)
+#### ICM
+![](images/icm_hist.png)
+#### Epiblast
+![](images/epiblast_hist.png)
