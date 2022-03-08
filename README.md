@@ -32,6 +32,7 @@ Epiblast | 2.92
 -|-|-
 ![](images/Cell8%20Bismark%20M-bias%20Read%201.png) | ![](images/ICM%20Bismark%20M-bias%20Read%201.png) | ![](images/Epiblast%20Bismark%20M-bias%20Read%201.png)
 ![](images/Cell8%20Bismark%20M-bias%20Read%202.png) | ![](images/ICM%20Bismark%20M-bias%20Read%202.png) | ![](images/Epiblast%20Bismark%20M-bias%20Read%202.png)
+
 M-bias plots для прямых ридов (Read 1) выглядят нормально: распределения всех величин равномерны, нет смещений.
 
 С графиками для обратных ридов (Read 2) ситуация интереснее.
