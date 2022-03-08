@@ -30,7 +30,7 @@ Epiblast | 2.92
 ### d) M-bias plots
 8 cell |	ICM | Epiblast
 -|-|-
-![](images/'Cell8 Bismark M-bias Read 1.png') |	![](images/'ICM Bismark M-bias Read 1.png') |	![](images/'Epiblast Bismark M-bias Read 1.png')
+![](images/Cell8 Bismark M-bias Read 1.png) |	![](images/'ICM Bismark M-bias Read 1.png') |	![](images/'Epiblast Bismark M-bias Read 1.png')
 ![](images/'Cell8 Bismark M-bias Read 2.png') |	![](images/'ICM Bismark M-bias Read 2.png') |	![](images/'Epiblast Bismark M-bias Read 2.png')
 ### e) Гистограммы распределения метилирования цитозинов по хромосоме
 #### 8 cell
